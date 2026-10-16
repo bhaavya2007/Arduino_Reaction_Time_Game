@@ -54,6 +54,13 @@ The push button uses `INPUT_PULLUP` and should be connected between D3 and GND. 
 
 [View Arduino Sketch](rxngame.ino)
 
+## Project Demonstration
+
+
+https://github.com/user-attachments/assets/d3607648-81b8-40a5-a18b-1a65b8f3261c
+
+
+
 ## What I Learned
 
 - Measuring time that has passed using `millis()`
